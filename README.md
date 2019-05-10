@@ -6,7 +6,7 @@ Remote CMD using WinAPI
 1. Build solution. Use CMD.exe for either server, service or cleint
 2. Launch server by sending --server command to CMD.exe
 3. If you want to install service, in binPath send --service
-4. Launch client by sending --client localhost
+4. Launch client by sending --client "server_ip"
 
 ### TODO
 1. Add multiple client support to server
